@@ -1,4 +1,6 @@
 # آپلودر تصاویر با Cloudflare Workers
+![Visitor Count](https://komarev.com/ghpvc/?username=Argh94&repo=image-host&label=بازدیدها)
+
 ## تصاویر پیش‌نمایش
 این تصاویر نشون‌دهنده رابط کاربری زیبا و عملکرد اسلایدر پس‌زمینه هستن.
 
