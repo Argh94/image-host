@@ -5,11 +5,10 @@
 این تصاویر نشون‌دهنده رابط کاربری زیبا و عملکرد اسلایدر پس‌زمینه هستن.
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://raw.githubusercontent.com/Argh94/image-host/main/images/project-preview.jpg" alt="نمایی از پروژه ۱" width="45%">
-  <img src="https://raw.githubusercontent.com/Argh94/image-host/main/images/project-preview2.jpg" alt="نمایی از پروژه ۲" width="45%">
+  <img src="https://raw.githubusercontent.com/Argh94/image-host/main/image/project-preview.jpg" alt="نمایی از پروژه ۱" width="45%">
+  <img src="https://raw.githubusercontent.com/Argh94/image-host/main/image/project-preview2.jpg" alt="نمایی از پروژه ۲" width="45%">
 </div>
 
-- (پس‌زمینه دریاچه و قایق):![صفحه قفل 1]((https://github.com/Argh94/image-host/blob/main/login-screen-2.jpg)
 
 یه سرویس ساده و زیبا برای آپلود و اشتراک تصاویر با استفاده از Cloudflare Workers و KV. این پروژه یه رابط کاربری مینیمال و جذاب داره که با الهام از طراحی تله‌گراف ساخته شده، شامل اسلایدر پس‌زمینه قشنگ، پیش‌نمایش تصویر، و سیستم رمز عبور برای امنیت بیشتره.
 
