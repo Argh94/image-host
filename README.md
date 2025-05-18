@@ -4,7 +4,10 @@
 ## تصاویر پیش‌نمایش
 این تصاویر نشون‌دهنده رابط کاربری زیبا و عملکرد اسلایدر پس‌زمینه هستن.
 
-![تصویر پیش‌نمایش](https://images.unsplash.com/photo-1501785888041-af3ef285b470?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80)
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://raw.githubusercontent.com/Argh94/image-host/main/images/project-preview.jpg" alt="نمایی از پروژه ۱" width="45%">
+  <img src="https://raw.githubusercontent.com/Argh94/image-host/main/images/project-preview2.jpg" alt="نمایی از پروژه ۲" width="45%">
+</div>
 
 - (پس‌زمینه دریاچه و قایق):![صفحه قفل 1]((https://github.com/Argh94/image-host/blob/main/login-screen-2.jpg)
 
